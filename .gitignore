@@ -395,6 +395,23 @@ Temporary Items
 =======
 # Local
 .env
+.env.production.local
+.env.development.local
 dist
 .webpack
 .serverless/**/*.zip
+src/generated
+
+#Artificial Intelligence
+.claude/**
+.cursor/**
+.deepseek/**
+.gemini/**
+.grok/**
+.llama/**
+.mistral/**
+.openai/**
+.perplexity/**
+.qwen/**
+.sora/**
+.xai/**
